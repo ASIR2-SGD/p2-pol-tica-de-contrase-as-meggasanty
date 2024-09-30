@@ -20,11 +20,11 @@ Por defecto, la mayoría de sistemas operativos, vienene con una política de co
 En linux, cuando el equipo requiere almacenar una contraseña la cadena de caracteres introducida por el usuario, se procesa para evitar que pueda ser robada. los procesos por los que pasa son los siquientes
 - Hashing: la cadena se transforma en en un código con una longitud de 512 bits. Este proceso no se puede revertir.
 - Salting: 
+(https://es.eitca.org/cybersecurity/eitc-is-lsa-linux-system-administration/basic-linux-sysadmin-tasks/user-account-management/examination-review-user-account-management/how-are-passwords-stored-and-managed-in-linux/#:~:text=Cuando%20un%20usuario%20crea%20una,para%20obtener%20la%20contrase%C3%B1a%20original.)
 
 
-
-| política | Restricciones | Contraseña 1 | pw score | Contraseña 2 | pw score | Contraseña 2 | pw score |
-| :----- | :----- | :----- | :----: | :----- | :-----: | :----- | :-----: | :----- |
-| Débil |  |  |  |  |  |  |  |  |
-| Media |  |  |  |  |  |  |  |  |
-| Extrema |  |  |  |  |  |  |  |  |
+| política | Restricciones | Contraseña1 | pwScore | Contraseña2 | pwScore | Contraseña3 | pwScore |
+| :- | :- | :- | :-: | :- | :-: | :- | :-: |
+| Débil |  |  |  |  |  |  |  |
+| Media |  |  |  |  |  |  |  |
+| Extrema |  |  |  |  |  |  |  |
