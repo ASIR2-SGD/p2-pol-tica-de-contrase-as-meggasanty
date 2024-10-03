@@ -54,5 +54,5 @@ sudo apt install libpwquality-tools
 | :- | :- | :-  | :- | :- | :-: |
 | No válida | <35 | - | - | kys3p2 | 23 |
 | Débil | 35-50 | 6 |  minlen = 6 dcredit = -1 | 5Nyan? | 38 |
-| Media | 50-80 | 8 | minlen = 8 dcredit = -1 ucredit = -1 |  |  |
-| Extrema | >80 | 10 |  |  |  |
+| Media | 50-80 | 8 | minlen = 8 dcredit = -1 ucredit = -1 lcredit = -1 | *HqkO0leR? | 68 |
+| Extrema | >80 | 10 | minlen = 8 dcredit = -1 ucredit = -1 lcredit = -1 | Contra$eñaLarga1 | 100 |
